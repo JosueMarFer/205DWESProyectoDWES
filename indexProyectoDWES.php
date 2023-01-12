@@ -36,23 +36,28 @@
                         TEMA 5: Desarrollo de aplicaciones web utilizando código embebido
                     </h3>
                 </a>
-                <a href="../205DWESProyectoLoginLogoffTema5/codigoPHP/login.php">
+                <a class="aplicacion" href="../205DWESProyectoLoginLogoffTema5/codigoPHP/login.php">
                     <h3>
                         TEMA 5: Proyecto LoginLogoff
                     </h3>
                 </a>
-                <a href="#">
-                    <h3>TEMA 6: Programación orientada a objetos en php</h3>
+                <div class="contenedorSinLink">
+                <h3 class="sinLink">TEMA 6: Programación orientada a objetos en php</h3>
+                </div>
+                <a class="aplicacion" href="../205DWESLoginLogoff/index.php">
+                    <h3>
+                        Aplicación LoginLogoff
+                    </h3>
                 </a>
-                <a href="#">
-                    <h3>TEMA 7: Programación de servicios web</h3>
-                </a>
-                <a href="#">
-                    <h3>TEMA 8: Desarrollo de aplicaciones web híbridas</h3>
-                </a>
-                <a href="#">
-                    <h3>TEMA 9: Desarrollo de aplicaciones web híbridas</h3>
-                </a>
+                <div class="contenedorSinLink">
+                <h3 class="sinLink">TEMA 7: Programación de servicios web</h3>
+                </div>
+                <div class="contenedorSinLink">
+                <h3 class="sinLink">TEMA 8: Desarrollo de aplicaciones web híbridas</h3>
+                </div>
+                <div class="contenedorSinLink">
+                <h3 class="sinLink">TEMA 9: Desarrollo de aplicaciones web híbridas</h3>
+                </div>
             </section>
             <div class="return">
                 <a href="../index.html"><img src="./webroot/images/back.png" alt="Imagen back"></a>
